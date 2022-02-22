@@ -138,7 +138,7 @@ header #logo {
 /*メニュー1個あたりの設定*/
 #menubar a {
 	display: block;text-decoration: none;
-	padding: 15px 20px;	/*上下、左右への余白*/
+	padding: 10px 15px;	/*上下、左右への余白*/
 	background: #fff;	/*背景色*/
 }
 
